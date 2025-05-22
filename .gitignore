@@ -1,0 +1,6 @@
+# Ignore Python bytecode cache
+__pycache__/
+*.pyc
+
+# Ignore model checkpoint files
+*.pt
