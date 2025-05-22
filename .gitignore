@@ -4,3 +4,4 @@ __pycache__/
 
 # Ignore model checkpoint files
 *.pt
+*.DS_store
